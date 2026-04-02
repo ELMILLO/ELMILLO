@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Emilio Guerrero
 
-I'm a Full-Stack Developer in progress with strong experience in QA Manual & Automation, currently working in real-world projects involving testing, automation, and product quality.
+I'm a Software Engineer with strong experience in QA Manual & Automation, currently working in real-world projects involving testing, automation, and product quality.
 I love building things, breaking things, and then building them better.
 
 ### 💻 Tech Stack & Tools
