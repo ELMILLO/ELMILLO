@@ -5,7 +5,8 @@ I love building things, breaking things, and then building them better.
 
 ### 💻 Tech Stack & Tools
 **Development**
-- Python (automation, scripting, backend fundamentals)gi
+- Python (automation, scripting, backend fundamentals)
+- Typescript
 - React (front-end interfaces, components, state management)
 - APIs, JSON, REST
 
@@ -20,13 +21,13 @@ I love building things, breaking things, and then building them better.
 
 
 ### 🚀 What I’m Focused On
-- Growing as a Full-Stack Developer while leveraging my QA background
-- Building automation scripts to speed up workflows
-- Creating small projects to apply Python + React together
+- Growing as a Developer
+- Building Playwright scripts to speed up workflows
+- Creating projects to apply my knowledge
 - Contributing to clean, maintainable, tested code
 
 ### 📚 Current Goals
-- Strengthen my automation frameworks with Python
+- Strengthen my automation frameworks with Playwright
 - Build a personal mini “Sofascore-style” project (API + React UI)
 - Deploy projects using Docker & GitHub Actions
 
