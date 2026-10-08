@@ -5,14 +5,14 @@ I love building things, breaking things, and then building them better.
 
 ### 💻 Tech Stack & Tools
 **Development**
-- Python (automation, scripting, backend fundamentals)
+- Python (automation, scripting, backend fundamentals)gi
 - React (front-end interfaces, components, state management)
 - APIs, JSON, REST
 
 **Quality Assurance**
-- Selenium (UI automation)
+- Playwright
 - Postman (API testing & collections)
-- Manual testing, smoke tests, test cases, defect tracking
+- Manual testing, end to end tests, test cases, defect tracking, smoke testing.
 
 **DevOps / Tools**
 - Docker (containers & environments)
